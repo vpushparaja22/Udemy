@@ -24,4 +24,4 @@ if guess != 5:
         print("Sorry, you have not guessed correctly")
 
 else:
-    print("You have got it first time")
+    print("You have got it first time...")
